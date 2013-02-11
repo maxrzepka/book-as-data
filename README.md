@@ -40,8 +40,9 @@ Here the wish-list :
 
    * Define your own format.
    * Choose your own template.
-   * Build a fully clj blog site generator.
+   * Build static site generator.
    * Define other format : dictionary , slides ...
+
 ## License
 
 Copyright © 2013 Maximilien Rzepka
